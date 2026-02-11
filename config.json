@@ -1,8 +1,8 @@
 {
   "buttons": [
     {
-      "label": "🎟️ Réserve ta place",
-      "url": "https://www.billetweb.fr/pro/peeperscomedy"
+      "label": "📸 Suis nous sur Instagram",
+      "url": "https://www.instagram.com/peeperscomedy/"
     },{
       "label": "⭐ Laisse nous un avis",
       "url": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x636ebec13fda6e15:0x7ffb77c46505a3a7!12e1"
@@ -10,11 +10,11 @@
       "label": "🎤 Notre prochaine soirée",
       "url": "https://www.billetweb.fr/flancomedyclub"
     },{
-      "label": "📸 Suis nous sur Instagram",
-      "url": "https://www.instagram.com/peeperscomedy/"
-    },{
       "label": "☕️ Payes nous un café ☕️",
       "url": "https://pots.lydia.me/collect/pots?id=2493-le-cafe-du-peepers"
+    },{
+      "label": "🎟️ Réserve ta place",
+      "url": "https://www.billetweb.fr/pro/peeperscomedy"
     }
   ]
 }
