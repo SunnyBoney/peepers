@@ -1,12 +1,6 @@
 {
   "buttons": [
     {
-      "label": "🎟️ Réserve ta place",
-      "url": "https://www.billetweb.fr/pro/peeperscomedy"
-    },{
-      "label": "🎤 Notre prochaine soirée",
-      "url": "https://www.billetweb.fr/flancomedyclub"
-    },{
       "label": "📸 Suis nous sur Instagram",
       "url": "https://www.instagram.com/peeperscomedy/"
     },{
